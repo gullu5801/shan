@@ -12,13 +12,7 @@
 </head>
 
 <body>
-  <div class="" align=center>
-    <br>
-    <img src="circle-cropped.png" alt="" width="225px">
-    <h1>I'm Gulshan</h1>
-    <p class="a">a designer & programmer</p>
-    <img src="Junior Icon 83.ico" alt="" width="100px">
-  </div>
+  <a href = "myproject.html"></a>
 </body>
 
 </html>
